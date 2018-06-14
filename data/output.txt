@@ -1,0 +1,3 @@
+Eddy__B-PER Bonte__I-PER is__O woordvoerder__O van__O diezelfde__O Hogeschool__B-PER
+Sherlock__B-PER Holmes__I-PER is__O a__O fictional__O private__O detective__O created__O by__O British__B-MISC author__O Sir__O Arthur__B-PER Conan__I-PER Doyle__I-PER
+We__O provide__O a__O brief__O description__O of__O LSTMs__B-ORG and__I-ORG CRFs,__I-ORG and__O present__O a__O hybrid__O tagging__O architecture.__O This__O architecture__O is__O similar__O to__O the__O ones__O presented__O by__O Collobert__B-MISC et__I-MISC al.__I-MISC (2011)__I-MISC and__O Huang__B-PER et__O al.__O (2015)__O

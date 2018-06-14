@@ -1,0 +1,3 @@
+Eddy Bonte is woordvoerder van diezelfde Hogeschool
+Sherlock Holmes is a fictional private detective created by British author Sir Arthur Conan Doyle
+We provide a brief description of LSTMs and CRFs, and present a hybrid tagging architecture. This architecture is similar to the ones presented by Collobert et al. (2011) and Huang et al. (2015)
